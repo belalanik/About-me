@@ -4,3 +4,6 @@ Hi. I am Md. Belal Hossain (**Belal**). I am a PhD student at the [School of Pop
 
 You can find me at 
 > belal.hossain@ubc.ca :email:
+
+Here is an alternative email
+> bhossain@isrt.ac.bd :email:
